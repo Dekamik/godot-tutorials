@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="Nodes and Scenes"
+config/name="Step By Step"
+run/main_scene="res://Label.tscn"
 config/icon="res://icon.png"
 
 [gui]
